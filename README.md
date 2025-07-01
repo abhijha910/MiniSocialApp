@@ -32,13 +32,14 @@ This project implements a simplified version of a social gaming app's **Game Lob
 
 ---
 
-## 🚀 How to Run the App
+### How to Run the App
 
 ### 1. Clone the repo
 
-```bash
-git clone https://github.com/your-username/mini-social-app.git
-cd mini-social-app
+    ```bash
+    git clone https://github.com/your-username/mini-social-app.git
+    cd mini-social-app
+
 
 ### Setup Frontend
 1. Navigate to the `frontend` directory.
@@ -50,7 +51,7 @@ cd mini-social-app
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the Express server.
 
-### Project Structure
+## Project Structure
 MiniSocialApp/
 ├── frontend/
 │   ├── src/
@@ -66,3 +67,4 @@ MiniSocialApp/
 │   ├── server.js
 ├── README.md
 ├── answers.pdf
+
