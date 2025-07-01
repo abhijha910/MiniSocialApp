@@ -51,7 +51,7 @@ This project implements a simplified version of a social gaming app's **Game Lob
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the Express server.
 
-## Project Structure
+**Project Structure**
 MiniSocialApp/
 ├── frontend/
 │   ├── src/
